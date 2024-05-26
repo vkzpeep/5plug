@@ -1,0 +1,24 @@
+{
+    "channels": {
+        "lady": "1244321918346203188",
+        "clip": "1244321930597765120",
+        "instagram": "1244321941507014917",
+        "emoji": "1244321956577284269",
+        "link": "1244321972951711866"
+    },
+    "firebaseConfig": {
+        "apiKey": "AIzaSyA6CZ0KpOWMbtiVM8BeVgvRnkzbOTDyT7Y",
+        "authDomain": "website-amigos.firebaseapp.com",
+        "projectId": "website-amigos",
+        "storageBucket": "website-amigos.appspot.com",
+        "messagingSenderId": "665860491677",
+        "appId": "1:665860491677:web:a83e1eb0c4949daeca0774",
+        "measurementId": "G-NE74YMTNVB"
+      },
+      "statusColor": {
+        "online": "23A55A",
+        "dnd": "F23F43",
+        "idle":"F0B232",
+        "offline":"80848E"
+    }
+}
